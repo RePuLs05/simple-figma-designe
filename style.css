@@ -92,3 +92,24 @@ h1 {
     height: 480px;
 
 }
+
+.last-cta-wraper{
+    width: 100%;
+    height: 512px;
+    display: flex;
+    justify-content: center;
+    margin-top: 156px;
+}
+.last-cta-wraper p{
+    width: 822px;
+    height:auto;
+    align-self: center;
+    font-size: 20px;
+}
+.last-cta-wraper h4{
+    margin-top: 135px;
+    margin-right: 32px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
